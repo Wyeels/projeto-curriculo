@@ -116,10 +116,10 @@ main ul > li {
 }
 
 main ol {
-    margin: 8px;
-    padding: 5px;
+    margin: 10px 20px;
     font-family: var(--font-list);
     list-style-position: inside;
+    font-size: 2vw;
     list-style: disc;
     line-height: 1.5em;
     columns: 2;
