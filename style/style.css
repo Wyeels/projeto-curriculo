@@ -123,6 +123,8 @@ main ol {
     list-style: disc;
     line-height: 1.5em;
     columns: 2;
+    column-gap: 80px;
+    column-width: 80px;
 }
 
 main abbr {
