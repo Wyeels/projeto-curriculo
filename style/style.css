@@ -118,11 +118,11 @@ main ul > li {
 main ol {
     margin: 10px;
     padding: 10px;
+    font-family: var(--font-list);
     list-style-position: inside;
     list-style: disc;
-    line-height: 1.2em;
+    line-height: 1.5em;
     columns: 2;
-    font-family: var(--font-list);
 }
 
 main abbr {
